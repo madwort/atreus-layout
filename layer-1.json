@@ -25,7 +25,7 @@
     {"keyCode": 35, "label": "6", "extraLabel": "^"},
     {"keyCode": 43, "label": "Tab"},
     {"keyCode": 65535, "label": "", "verbose": "Transparent"},
-    {"keyCode": 0, "label": "Blocked", "verbose": "Disabled"},
+    {"keyCode": 2095, "label": "{"},
     {"keyCode": 2080, "label": "#"},
     {"keyCode": 45, "label": "-"},
     {"keyCode": 46, "label": "="},
