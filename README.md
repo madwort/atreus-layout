@@ -1,5 +1,5 @@
 # atreus-layout
-My DVORAK layout for keyboardio atreus
+My DVORAK layout for [keyboardio atreus](https://shop.keyboard.io/products/keyboardio-atreus)
 
 * Layer 0 is based on the Keyboardio QWERTY layout, for use with the computer set to Dvorak.
 * Layer 3 is based on the Keyboardio Dvorak layout, for use with the computer set to QWERTY. 
